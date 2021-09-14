@@ -1,3 +1,6 @@
-table{
+table {
 width: 400px;
+}
+tr {
+    text-align: Left;
 }
