@@ -25,13 +25,6 @@ div td {
     background-color:rgb(146, 202, 146);
 }
 
-div td{
-    background-color:rgb(146, 202, 146); 
-}
-
-div.thirdrow~td {
-    background-color:rgb(146, 202, 146); 
-}
-table, td {
+table,td {
     border: 2px solid #000;
 }
