@@ -8,5 +8,8 @@ tr {
 ul { 
     color: red;
     background-color:green;
+}
 
+table, th, td {
+    border: 1px solid #000;
 }
