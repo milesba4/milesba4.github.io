@@ -21,10 +21,15 @@ td#third {
     background-color:rgb(146, 202, 146);
 }
 
-span td {
+div#firstrow {
     background-color:rgb(146, 202, 146);
 }
-
+div#secondrow {
+    background-color:rgb(146, 202, 146);
+}
+div#thirdrow {
+    background-color:rgb(146, 202, 146);
+}
 table,td {
     border: 2px solid #000;
 }
