@@ -31,7 +31,7 @@ h1#text{ color: red;
 
 }
 
-span {
+span.b{
 border: 1px solid green;
 
 }
