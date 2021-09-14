@@ -10,6 +10,6 @@ ul {
     background-color:green;
 }
 
-table, th, td {
-    border: 1px solid #000;
+table, td {
+    border: .5px solid #000;
 }
