@@ -4,3 +4,8 @@ width: 400px;
 tr {
  text-align: right;
 }
+h1 { 
+    color: red;
+    background-color:green;
+
+}
