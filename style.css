@@ -5,9 +5,9 @@ width: 400px;
 tr {
  text-align: center;
 }
-ul { 
-    color: red;
-    background-color:green;
+td { 
+    color: rgb(236, 30, 30);
+    background-color:rgb(146, 202, 146);
 }
 
 table, td {
