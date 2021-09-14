@@ -5,7 +5,7 @@ width: 400px;
 tr {
  text-align: center;
 }
-li { 
+ul { 
     color: red;
     background-color:green;
 }
