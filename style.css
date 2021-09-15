@@ -76,3 +76,9 @@ a:hover {
 p:hover, h1:hover, a:hover {
     background-color: yellow;
   }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
