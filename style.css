@@ -77,8 +77,18 @@ p:hover, h1:hover, a:hover {
     background-color: yellow;
   }
 
-  @media only screen and (max-width: 300px) {
+  body {
+    background-color: lightblue;
+  }
+  
+  @media screen and (min-width: 400px) {
     body {
       background-color: lightgreen;
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    body {
+      background-color: lavender;
     }
   }
