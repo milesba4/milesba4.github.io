@@ -73,3 +73,6 @@ a:link {
 a:hover {
     color:yellow;
 }
+p:hover, h1:hover, a:hover {
+    background-color: yellow;
+  }
