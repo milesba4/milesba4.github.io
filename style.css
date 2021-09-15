@@ -70,3 +70,6 @@ a:link {
     color: green;
 }
 
+a:hover {
+    color:red
+}
