@@ -40,7 +40,7 @@ border: 1px solid green;
 
 }
 div.description{
-    color: red;
+    color: green;
 
 }
 div#table {
@@ -53,5 +53,5 @@ span#like {
 }
 
 div.location1 {
-    color: red;
+    color: green;
 }
