@@ -39,10 +39,11 @@ div.b{
 border: 1px solid green;
 
 }
-div.description1{
-    color: green;
+div.description{
+    color: red;
 
 }
+
 div#table {
 background-color: red;
 
@@ -53,5 +54,5 @@ span#like {
 }
 
 div.location1 {
-    color: green;
+    color: red;
 }
