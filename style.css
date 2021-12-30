@@ -80,3 +80,8 @@ position: relative;
 cursor: pointer;
 
 }
+.buttn:hover{
+    border: 1px solid rgb(46, 46, 236);
+    background: rgb(46, 46, 236);
+    transition: 1s;
+}
