@@ -44,11 +44,8 @@ font-size: 13px;
     background:#2036f7; 
     display: block;
     margin: auto;
+    transition: 0.5s;
 }
 .nav-links ul li:hover::after{
-    content:'';
     width: 100%;
-    background:#2036f7; 
-    display: block;
-    margin: auto;
 }
