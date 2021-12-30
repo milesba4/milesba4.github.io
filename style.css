@@ -34,14 +34,14 @@ padding: 8px 12px;
 position: relative;
 }
 .nav-links ul li a{
-color: rgb(187, 47, 47);
+color: rgb(#FFF);
 text-decoration: none;
 font-size: 13px;
 }
 .nav-links ul li::after{
     content:'';
     width: 0%;
-    background:#f72e20; 
+    background:#072edb; 
     display: block;
     margin: auto;
     transition: 0.5s;
