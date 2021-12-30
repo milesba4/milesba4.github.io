@@ -40,6 +40,13 @@ font-size: 13px;
 }
 .nav-links ul li::after{
     content:'';
+    width: 0%;
+    background:#2036f7; 
+    display: block;
+    margin: auto;
+}
+.nav-links ul li:hover::after{
+    content:'';
     width: 100%;
     background:#2036f7; 
     display: block;
