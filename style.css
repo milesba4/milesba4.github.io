@@ -87,3 +87,8 @@ cursor: pointer;
     background: rgb(46, 46, 236);
     transition: 1s;
 }
+@media(max-width: 700px){
+    .text-box h1{
+        font-size: 20px;
+    }
+}
