@@ -1,109 +1,15 @@
 *{ 
-margin:0;
-padding:0;
-font-family: sans-serif;
-}
-.banner{
-    width : 100%;
-    height : 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(./veggies.jpeg);
-    background-size: cover;
-    background-position:center;
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    }
+    .header{
+        min-height: 100vh;
+        width:100%;
+        background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shopping-bag-full-of-fresh-vegetables-and-fruits-royalty-free-image-1128687123-1564523576.jpg)
+        ;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+    }
     
-    }
-
-
-
-table {
-
-width: 400px; height: 400px;
-}
-
-tr {
- text-align: center;
-}
-td#first { 
-    color: rgb(233, 118, 72);
-    background-color:rgb(146, 202, 146);
-}
-td#second { 
-    color: rgb(62, 126, 26);
-    background-color:rgb(146, 202, 146);
-}
-
-td#third {
-    color: rgb(190, 129, 192);
-    background-color:rgb(146, 202, 146);
-}
-
-div#table {
-    background-color:rgb(146, 202, 146);
-}
-table,td {
-    border: 2px solid #000;
-}
-h1#text{ color: red;
-
-}
-
-div#header{
-    color: green;
-}
-
-div.b{
-border: 1px solid green;
-
-}
-div.description{
-    color: red;
-
-}
-
-div#table {
-background-color: red;
-
-}
-span#like {
-
-    color: blue;
-}
-
-div.location1 {
-    color: red;
-}
-
-span#funfacts {
-
-    color: red;
-}
-
-a {
-    color: red;
-}
-
-a:link {
-    color: green;
-}
-
-a:hover {
-    color: green;
-}
-p:hover, h1:hover, a:hover {
-    background-color: yellow;
-  }
-
-  body {
-    background-color: lightblue;
-  }
-  
-  @media screen and (min-width: 400px) {
-    body {
-      background-color: lightgreen;
-    }
-  }
-  
-  @media screen and (min-width: 800px) {
-    body {
-      background-color: lavender;
-    }
-  }
