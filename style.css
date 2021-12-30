@@ -49,7 +49,7 @@ font-size: 13px;
 .nav-links ul li:hover::after{
     width: 100%;
 }
-.text-box{
+div.text-box{
     width:90%;
     color: white;
     position:absolute;
