@@ -41,7 +41,7 @@ font-size: 13px;
 .nav-links ul li::after{
     content:'';
     width: 0%;
-    background:#2036f7; 
+    background:#f72e20; 
     display: block;
     margin: auto;
     transition: 0.5s;
