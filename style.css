@@ -122,3 +122,6 @@ nav.fa{
     }
 
 }
+.box1 img {
+    object-fit: cover;
+}
