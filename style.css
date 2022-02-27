@@ -122,6 +122,6 @@ nav.fa{
     }
 
 }
-.box1 img {
-    object-fit: cover;
+img.box1{
+  border: 5px solid #555;
 }
